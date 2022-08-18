@@ -1,8 +1,8 @@
  # Oie! Eu sou o felipe, mas pode me chamar de felly! #
     # Hi there! I'm Felipe aka felly, nice to meet you! # 
     
-- 🎓 Sou estudante de Ciência de dados e IA pela UFPB
-  - 🎓 I'm a undergraduate student in data science and AI at UFPB
+- 🎓 Sou estudante de Ciência de dados e IA pela UFPB.
+  - 🎓 I'm a undergraduate student in data science and AI at UFPB.
 
 - 👾 Ainda não sei programar, mas pretendo aprender diversas linguagens, por enquanto estou aprendendo Python🐍.
   - 👾 Sadly I don't really know how to code yet but I'm willing to learn everything I can, for now I'll go with Python🐍.
