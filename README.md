@@ -4,8 +4,8 @@
 - 🎓 Sou estudante de Ciência de dados e IA pela UFPB.
   - 🎓 I'm a undergraduate student in data science and AI at UFPB.
 
-- 👾 Ainda não sei programar, mas pretendo aprender diversas linguagens, por enquanto estou aprendendo Python🐍.
-  - 👾 Sadly I don't really know how to code yet but I'm willing to learn everything I can, for now I'll go with Python🐍.
+- 👾 Aprofundando meus conhecimentos em Python🐍 e seguindo o mesmo caminho em C.
+  - 👾 Getting to know Python🐍 in a pro way and giving C the same opportunity.
  </div>
  
  ##
