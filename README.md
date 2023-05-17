@@ -2,10 +2,10 @@
     # Hi there! I'm Felipe aka felly, nice to meet you! # 
     
 - 🎓 Sou estudante de Ciência de dados e IA pela UFPB.
-  - 🎓 I'm a undergraduate student in data science and AI at UFPB.
+  - 🎓 I'm an undergraduate student in data science and AI at UFPB.
 
 - 👾 Aprofundando meus conhecimentos em Python🐍 e seguindo o mesmo caminho em C.
-  - 👾 Getting to know Python🐍 in a pro way and giving C the same opportunity.
+  - 👾 Getting to know Python🐍 in a pro way, and giving C the same opportunity.
  </div>
  
  ##
