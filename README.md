@@ -9,25 +9,27 @@
 
 
  
- <div align = "center"><br>
+ <div align = "center" style= "display: inline_block"><br>
  
 [![Felly'stats](https://github-readme-stats.vercel.app/api?username=flipfelly&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 ![Used languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=flipfelly&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=5)
-
 </div>
 
 
 
-<div align = "center" style= "display: inline_block"><br>
+
+<div align = "center" ><br>
 
 <img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
 <img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >         
-<img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> </div>
+<img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> 
+</div>
                     
 ##
 
-<div align = "center"><br>
+<div align = "left" style = "display: inline_block"><br>
  <a href="https://instagram.com/elfoguinh00" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
  <a href="https://www.linkedin.com/in/felipe-gontijo-1600a31a2 " target"_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBncPKVrNHJmWNzVpNjWkzZCPwhsHXdGWxgjgSQkPVnZhpttkrZxjbjfTdtgvlQnjDnDTMS" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <img align = "right"  height= "100" width= "100" src = "https://cdn.discordapp.com/attachments/731599159874027634/1113609108768174120/mouse-de-computador-imagem-animada-0019.gif">
 </div>
