@@ -12,6 +12,7 @@
  <div align = "center"><br>
  
 [![Felly'stats](https://github-readme-stats.vercel.app/api?username=flipfelly&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Used languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=flipfelly&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=5)
 
 </div>
 
