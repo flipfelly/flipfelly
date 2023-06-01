@@ -9,16 +9,11 @@
 - 👾 Aprofundando meus conhecimentos em Python🐍 e seguindo o mesmo caminho em C.
   - 👾 Getting to know Python🐍 in a pro way, and giving C the same opportunity.
 
-
- 
  <div align = "center" style= "display: inline_block"><br>
  
 [![Felly'stats](https://github-readme-stats.vercel.app/api?username=flipfelly&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 ![Used languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=flipfelly&theme=nightowl&hide_border=false&no-bg=true&no-frame=true&langs_count=5)
 </div>
-
-
-
 
 <div align = "center" ><br>
 
@@ -26,8 +21,9 @@
 <img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >         
 <img height= "50" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"> 
 </div>
-                    
-##
+                   
+                   
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="linha-imagem-animada-0015" height = "1" width = "10000"/></a>
 
 <div align = "left" ><br>
  <a href="https://instagram.com/elfoguinh00" target="_blank"> <img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/instagram-circle.png" target="_blank"></a>
