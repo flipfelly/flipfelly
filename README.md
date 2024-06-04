@@ -1,7 +1,7 @@
 <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="linha-imagem-animada-0015" height = "1" width = "10000"/></a>
 
 # Olá! Eu sou o Felipe, mas pode me chamar de Felly! #
-    # Hi there! I'm Felipe aka felly, nice to meet you! # 
+Hi there! I'm Felipe aka felly, nice to meet you! 
     
 - 🎓 Sou estudante de Ciência de dados e IA pela UFPB.
   - 🎓 I'm an undergraduate student in data science and AI at UFPB.
