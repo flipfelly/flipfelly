@@ -28,7 +28,7 @@ Hi there! I'm Felipe aka felly, nice to meet you!
 
 <div align = "left" ><br>
  <a href="https://instagram.com/elfoguinh00" target="_blank"> <img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/instagram-circle.png" target="_blank"></a>
- <a href="https://www.linkedin.com/in/felipe-gontijo-1600a31a2 " target"_blank"> <a  href="www.linkedin.com/in/profile-felipe-gontijo" target="_blank" rel="external" ><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/linkedin-circle.png" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/felipe-gontijo-1600a31a2 " target"_blank"> <a  href="[www.linkedin.com/in/profile-felipe-gontijo](https://www.linkedin.com/in/felipe-gontijo-1600a31a2/)" target="_blank" rel="external" ><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/linkedin-circle.png" target="_blank"></a>
  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBncPKVrNHJmWNzVpNjWkzZCPwhsHXdGWxgjgSQkPVnZhpttkrZxjbjfTdtgvlQnjDnDTMS" target="_blank"> <img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/gmail.png" target="_blank" ></a> 
  <img align = "right"  height= "90" width= "90" src = "https://cdn.discordapp.com/attachments/731599159874027634/1113609108768174120/mouse-de-computador-imagem-animada-0019.gif">
 </div>
