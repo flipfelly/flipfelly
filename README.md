@@ -4,7 +4,7 @@
 <!-- Typing Animation-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&duration=4000&pause=1000&color=6D8A00&width=435&lines=Ol%C3%A1%2C+eu+sou+Felly!+;Hello%2C+I+am+Felly!+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour&duration=4000&pause=1000&color=6D8A00&width=435&lines=Ol%C3%A1%2C+eu+sou+Felipe!+;Hello%2C+I+am+Felly!+" alt="Typing SVG" />
   </a>
 </div>
 
@@ -47,13 +47,14 @@
         <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834564615.svg?token=exp=1735835559~hmac=ee6be963efd00d447620a00e78501296" alt="Instagram" width="35" height="35"/>
     </a>
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/felipe-gontijo-1600a31a2">
+    <a href="www.linkedin.com/in/perfil-felipe-gontijo">
         <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834640594.svg?token=exp=1735835559~hmac=57a833c13d236a17e57969fdaff8582e" alt="LinkedIn" width="37" height="37"/>
     </a>
     <!-- Email -->
-    <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSBncPKVrNHJmWNzVpNjWkzZCPwhsHXdGWxgjgSQkPVnZhpttkrZxjbjfTdtgvlQnjDnDTMS">
-        <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834698330.svg?token=exp=1735835599~hmac=6c02d7b64366f7fb98ab39c33e688526" alt="E-mail" width="35" height="35"/>
+    <a href="mailto:gontijofotografia@gmail.com">
+    <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834698330.svg?token=exp=1735835599~hmac=6c02d7b64366f7fb98ab39c33e688526" alt="E-mail" width="35" height="35"/>
     </a>
+  
 </div>
 
 <!-- Footer Image (Waving Capsule Banner) -->
