@@ -32,12 +32,13 @@
   </table>
 </div>
 
-<!-- Skills -->
 <div align="center">
+  <h3>Main Skills</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,github,git,mysql,cpp,html,css,ps,anaconda" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=py,github,git,mysql,c,cpp,html,css,ps,anaconda" alt="My Skills"/>
   </a>
 </div>
+
 
 ---
 <!-- Social Media Icons -->
