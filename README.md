@@ -48,8 +48,8 @@
         <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834564615.svg?token=exp=1735835559~hmac=ee6be963efd00d447620a00e78501296" alt="Instagram" width="35" height="35"/>
     </a>
     <!-- LinkedIn -->
-    <a href="www.linkedin.com/in/perfil-felipe-gontijo">
-        <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834640594.svg?token=exp=1735835559~hmac=57a833c13d236a17e57969fdaff8582e" alt="LinkedIn" width="37" height="37"/>
+    <a href="https://www.linkedin.com/in/perfil-felipe-gontijo/">
+        <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834640594.svg?token=exp=1735835559~hmac=57a833c13d236a17e57969fdaff8582e" alt="LinkedIn" width="35" height="35"/>
     </a>
     <!-- Email -->
     <a href="mailto:gontijofotografia@gmail.com">
