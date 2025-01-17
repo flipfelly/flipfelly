@@ -45,15 +45,15 @@
 <div align="right">
     <!-- Instagram -->
     <a href="https://www.instagram.com/felipegontijofotografia/">
-        <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834564615.svg?token=exp=1735835559~hmac=ee6be963efd00d447620a00e78501296" alt="Instagram" width="35" height="35"/>
+        <img src="assets/001-instagram.png" alt="Instagram" width="35" height="35"/>
     </a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/perfil-felipe-gontijo/">
-        <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834640594.svg?token=exp=1735835559~hmac=57a833c13d236a17e57969fdaff8582e" alt="LinkedIn" width="35" height="35"/>
+        <img src="assets/002-linkedin.png" alt="LinkedIn" width="35" height="35"/>
     </a>
     <!-- Email -->
     <a href="mailto:gontijofotografia@gmail.com">
-    <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834698330.svg?token=exp=1735835599~hmac=6c02d7b64366f7fb98ab39c33e688526" alt="E-mail" width="35" height="35"/>
+    <img src="assets/003-email.png" alt="E-mail" width="35" height="35"/>
     </a>
   
 </div>
