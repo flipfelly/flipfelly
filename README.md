@@ -44,7 +44,7 @@
 <!-- Social Media Icons -->
 <div align="right">
     <!-- Instagram -->
-    <a href="https://instagram.com/elfoguinh00">
+    <a href="https://www.instagram.com/felipegontijofotografia/">
         <img src="https://cdn-user-icons.flaticon.com/181403/181403259/1735834564615.svg?token=exp=1735835559~hmac=ee6be963efd00d447620a00e78501296" alt="Instagram" width="35" height="35"/>
     </a>
     <!-- LinkedIn -->
