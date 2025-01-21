@@ -9,7 +9,7 @@
 </div>
 
 <!-- Short Description -->
-- Currently pursuing a degree in Data Science and AI at UFPB, I aim to explore the fields of data engineering and analysis.
+- Currently pursuing a degree in Data Science and AI at UFPB, I aim to explore the fields of data engineering and analytics.
 - With a background in arts and visual production, I strive to blend these creative ideals with modern technological advancements.
 
 <!-- Table with Statistics and Language Cards -->
